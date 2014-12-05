@@ -468,4 +468,8 @@
     <Key>ServiceMatrix Guidance.SamplesJoin.StateOverride</Key>
     <Value>False</Value>
   </KeyValueOfstringstring>
+  <KeyValueOfstringstring>
+    <Key>ServiceMatrix Guidance.ServiceMatrix Online Documentation.StateOverride</Key>
+    <Value>False</Value>
+  </KeyValueOfstringstring>
 </ArrayOfKeyValueOfstringstring>

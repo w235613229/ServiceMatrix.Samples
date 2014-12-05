@@ -81,7 +81,7 @@
       <ItemGuid>f13a6869-014e-4df6-9111-bf0553a5fcb7</ItemGuid>
     </Compile>
     <Compile Include="Infrastructure\Billing\OrderAcceptedHandler.cs">
-      <SourceModelReference>modelbus://NuPattern.Runtime.Store/OnlineSales/Element/C:\Users\Joe\Documents\GitHub\jdrat2000\OnlineSales\OnlineSales.slnbldr%252f7dc462fb-f20b-4c73-a38f-706b7f7da614</SourceModelReference>
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/OnlineSales/Element/C:\Particular\ServiceMatrix.Samples\OnlineSales\OnlineSales.slnbldr%252f7dc462fb-f20b-4c73-a38f-706b7f7da614</SourceModelReference>
       <ItemGuid>8cebd8d2-d5db-4bad-ab76-72e71d722907</ItemGuid>
     </Compile>
     <Compile Include="Infrastructure\MessageConventions.cs">

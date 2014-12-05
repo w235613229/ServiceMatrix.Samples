@@ -6,7 +6,7 @@
         <property Id="d0764ad2-bb02-4f6f-8fb3-dc5aabddeb4e" definitionId="fad5bb76-e58a-4d6f-a4dd-4d460d1d56e5" definitionName="ForwardReceivedMessagesTo" rawValue="audit" />
         <property Id="0c5cf095-2139-4a57-9888-1a45924819fc" definitionId="2d4e9c90-92f5-4b3b-a413-49796b498035" definitionName="ErrorQueue" rawValue="error" />
         <property Id="09240162-70c9-4290-bdb2-ea0d82e53e7f" definitionId="8823a0ac-36e9-47a6-9007-705cd12080a8" definitionName="NServiceBusVersion" rawValue="4.3.0" />
-        <property Id="aaeac402-a923-4faa-92be-4bd2940b3a51" definitionId="0580d214-a417-4747-b859-2ad7596b5092" definitionName="ExtensionPath" rawValue="C:\USERS\JOE\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\11.0\EXTENSIONS\XOVIAFIP.KLR\" />
+        <property Id="aaeac402-a923-4faa-92be-4bd2940b3a51" definitionId="0580d214-a417-4747-b859-2ad7596b5092" definitionName="ExtensionPath" rawValue="C:\USERS\DAVID\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\D01FYWY3.302\" />
         <property Id="7c8f1ccf-aa13-4a8a-ae30-65f9202592bf" definitionId="d8ea971b-49de-4972-8560-f404017d8b83" definitionName="Transport" rawValue="Msmq" />
         <property Id="f9420530-ba23-4eb9-8178-b8c2aa6b7d1d" definitionId="854c4ee6-e91f-4e5a-b3b1-a305eee860cb" definitionName="TransportConnectionString" />
         <property Id="8a1cfebd-eaff-42cf-be3e-2e881feda060" definitionId="744106ae-5a52-49c2-973c-2f592e18f74c" definitionName="CompanyLogo" />
@@ -19,13 +19,6 @@
         <property Id="66158be1-de78-42cf-8348-d5d2bc0fc875" definitionId="f754071a-321c-40dd-a177-0e1ef12143bb" definitionName="ServiceControlEndpointPluginVersion" rawValue="0.8.0-Unstable0210" />
         <property Id="3f323d08-6c7a-40fc-94a3-6e907619c11d" definitionId="b943e76d-90d1-45d2-b98b-bf2986088bff" definitionName="ServiceControlInstanceURI" rawValue="http://localhost:33333/api" />
         <property Id="47b74db6-c857-40c3-8ffa-4f5869c3ec9c" definitionId="1ed83bc3-ef51-4efc-b8d1-128afc800298" definitionName="LaunchServiceInsightOnDebug" rawValue="True" />
-        <property Id="2fb07a2e-32b8-4565-884e-582e9ff5887f" definitionId="e41c271e-ae58-44af-878c-462d53221100" definitionName="NuGetPackageVersionNServiceBus" />
-        <property Id="b1ea4dac-846d-4b12-bfc4-03732bfbb896" definitionId="302c2b55-ab10-4aae-b387-051596886b4b" definitionName="NuGetPackageVersionServiceControlPlugins" />
-        <property Id="40d36b37-c3d6-470b-8862-b0da2abc9e32" definitionId="fb8e85b2-1734-4d51-b92d-a0f5c43d2995" definitionName="NuGetPackageVersionNServiceBusActiveMQ" />
-        <property Id="d531096c-4797-4529-b4ae-720fbbefa30d" definitionId="16ac19e7-d4bb-4783-8fb7-78f8957cab7b" definitionName="NuGetPackageVersionNServiceBusRabbitMQ" />
-        <property Id="3178f7c7-38c9-49f6-9f34-7d2eaeed66d7" definitionId="f24cf461-f3d0-4215-b1b6-52a1b7541cbf" definitionName="NuGetPackageVersionNServiceBusSqlServer" />
-        <property Id="1f239aee-d1e4-48c1-9888-e7835cf30633" definitionId="e55b5b30-3f9a-4563-98d7-351fa8dd4aa0" definitionName="NuGetPackageVersionNServiceBusAzureQueues" />
-        <property Id="0aaf1b6e-25b3-40f5-b00b-20ebcbe265b7" definitionId="672974e5-8baf-47ad-87e8-8f81eeb022dd" definitionName="NuGetPackageVersionNServiceBusAzureServiceBus" />
         <property Id="b2982f9f-4cce-4d76-b4b4-d75227dabc45" definitionId="ede73009-77d7-438f-8a53-cad296db531f" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
         <property Id="e76e078e-e61e-42b7-9f5a-5ea3df3ea0e8" definitionId="58f462bd-3e26-41e2-81be-43969034fd41" definitionName="TargetFrameworkVersion" rawValue="4.5" />
       </properties>
@@ -92,6 +85,7 @@
                             <property Id="97166d2b-e02a-428c-81de-ffe195c68cdf" definitionId="5b80c9f7-44e6-4acc-a9db-1be527d89f81" definitionName="InterfaceBody" rawValue="&#xD;&#xA;        void Send(SubmitOrder message);&#xD;&#xA;" />
                             <property Id="c5746205-9d50-4a18-b15f-c90453194967" definitionId="3da71921-7816-4280-a945-eaf182cb8ab9" definitionName="ConfigureHowToFindSagaBody" rawValue="&#xD;&#xA;" />
                             <property Id="ac5f2dd3-cf8b-4894-aeea-f59b39ed8b49" definitionId="640126ae-7c81-42e4-bbe6-d685270cae55" definitionName="UnfoldedCustomCode" rawValue="True" />
+                            <property Id="ad774156-cf0f-4cec-8235-8e6342119a91" definitionId="0f96bb02-ec3e-4a5d-bc5d-d0518afea0aa" definitionName="IsBroadcastingViaSignalR" rawValue="False" />
                           </properties>
                           <references>
                             <reference Id="e15e3607-8442-443d-a504-bdec1a0def8d" value="solution://621d142c-3f61-4505-b11c-61e12fae848a/fca75771-1527-4f10-8335-c6bb8e918af5" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{CodeIdentifier}.cs&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;0fa0f1e3-2a8d-4e12-b629-9012e20354ad&quot;&#xD;&#xA;}" />
@@ -113,7 +107,6 @@
                               </elements>
                             </collection>
                             <collection Id="1ec604c7-112f-4c18-9bf4-f021038d9530" definitionId="ffcf83ed-8aca-42ea-bebd-af35d17f23be" definitionName="Subscribes" instanceName="Subscribes / Processes" />
-                            <collection Id="7b4b4cc1-b0c8-4422-885e-7d27ff11eecd" definitionId="7a291463-b68c-45ac-8ad3-28eb5982aa3c" definitionName="LibraryReferences" instanceName="Library References" />
                           </elements>
                         </element>
                         <element Id="e926b020-d64d-4bfc-9695-80a5d0a877bb" definitionId="f1e3bdfb-c55d-4600-b1bc-d12c8b27318f" definitionName="Component" instanceName="SubmitOrderHandler">
@@ -127,6 +120,7 @@
                             <property Id="44c3290b-4c62-4e11-93b4-a896c0e82e83" definitionId="5b80c9f7-44e6-4acc-a9db-1be527d89f81" definitionName="InterfaceBody" rawValue="&#xD;&#xA;" />
                             <property Id="a819c86e-93ec-4a09-80cf-416ffaf848a6" definitionId="3da71921-7816-4280-a945-eaf182cb8ab9" definitionName="ConfigureHowToFindSagaBody" rawValue="&#xD;&#xA;" />
                             <property Id="68fc08c6-d8dd-4cc2-a95b-7a0c5f9da5ec" definitionId="640126ae-7c81-42e4-bbe6-d685270cae55" definitionName="UnfoldedCustomCode" rawValue="True" />
+                            <property Id="4ead2ed7-d318-4979-9071-ca298731d4b0" definitionId="0f96bb02-ec3e-4a5d-bc5d-d0518afea0aa" definitionName="IsBroadcastingViaSignalR" rawValue="False" />
                           </properties>
                           <references>
                             <reference Id="0d8b3c12-2084-40bf-9b5a-7fa1dff2b2e5" value="solution://bbd4565c-9350-4e4e-8172-226ed23639fd/6f4d4b31-a135-4189-a21e-1bac4b0a198a" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{CodeIdentifier}.cs&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;0fa0f1e3-2a8d-4e12-b629-9012e20354ad&quot;&#xD;&#xA;}" />
@@ -159,15 +153,9 @@
                                 </element>
                               </elements>
                             </collection>
-                            <collection Id="67fbd119-1245-49c3-b383-a5c13c81c44a" definitionId="7a291463-b68c-45ac-8ad3-28eb5982aa3c" definitionName="LibraryReferences" instanceName="Library References" />
                           </elements>
                         </element>
                       </elements>
-                    </collection>
-                    <collection Id="8ea52e9c-41dd-4d11-bbd8-31e706d98edb" definitionId="70a9d0ed-a581-4b84-8ac7-ad3d5b4a43d6" definitionName="ServiceLibraries" instanceName="Libraries">
-                      <properties>
-                        <property Id="ad7ae232-59f8-469a-bf4d-e4a607ba5a34" definitionId="77fe3e5a-63a2-4122-bc92-0b69e0293cf6" definitionName="Namespace" />
-                      </properties>
                     </collection>
                   </elements>
                 </element>
@@ -233,6 +221,7 @@
                             <property Id="9a664841-db92-4745-9f6a-f7cee423b649" definitionId="5b80c9f7-44e6-4acc-a9db-1be527d89f81" definitionName="InterfaceBody" rawValue="&#xD;&#xA;        void Send(SubmitPayment message);&#xD;&#xA;" />
                             <property Id="4a44ffb6-08e1-447c-9b51-ec6c69dda1fa" definitionId="3da71921-7816-4280-a945-eaf182cb8ab9" definitionName="ConfigureHowToFindSagaBody" rawValue="&#xD;&#xA;            // ConfigureMapping&lt;SubmitPaymentResponse&gt;(m =&gt; /* specify message property */).ToSaga(s =&gt;  /* specify saga property */ );&#xD;&#xA;" />
                             <property Id="2b8fb85e-78b6-4fe9-8d2c-8f6fe5923580" definitionId="640126ae-7c81-42e4-bbe6-d685270cae55" definitionName="UnfoldedCustomCode" rawValue="True" />
+                            <property Id="bfa5ad31-7056-4284-a3ee-c22f35e07d8e" definitionId="0f96bb02-ec3e-4a5d-bc5d-d0518afea0aa" definitionName="IsBroadcastingViaSignalR" rawValue="False" />
                           </properties>
                           <references>
                             <reference Id="09617da7-1fd9-4270-ab0b-a207bec7d81b" value="solution://04a80caf-dabb-474a-a00a-7d751a478504/41c11aeb-ba9a-4ca5-9ae1-c1d6f486c4ec" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{CodeIdentifier}SagaData.cs&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;b2adde29-7d8c-4c77-9640-3aaa7ba96752&quot;&#xD;&#xA;}" />
@@ -285,7 +274,6 @@
                                 </element>
                               </elements>
                             </collection>
-                            <collection Id="ed22222d-1ca5-4494-bd94-5008ac5f2e38" definitionId="7a291463-b68c-45ac-8ad3-28eb5982aa3c" definitionName="LibraryReferences" instanceName="Library References" />
                           </elements>
                         </element>
                         <element Id="ea5f1540-61b5-436f-8e28-40fe2a8bb825" definitionId="f1e3bdfb-c55d-4600-b1bc-d12c8b27318f" definitionName="Component" instanceName="SubmitPaymentHandler">
@@ -299,6 +287,7 @@
                             <property Id="d86635a2-8201-438a-9aad-da145d348d5a" definitionId="5b80c9f7-44e6-4acc-a9db-1be527d89f81" definitionName="InterfaceBody" rawValue="&#xD;&#xA;" />
                             <property Id="01f6267a-4893-45b4-ab0a-0f3745d5ce78" definitionId="3da71921-7816-4280-a945-eaf182cb8ab9" definitionName="ConfigureHowToFindSagaBody" rawValue="&#xD;&#xA;" />
                             <property Id="edbd707f-c874-49b3-8a48-613fb15d3d53" definitionId="640126ae-7c81-42e4-bbe6-d685270cae55" definitionName="UnfoldedCustomCode" rawValue="True" />
+                            <property Id="2e9f02c6-293b-4368-a827-d53f13bd2002" definitionId="0f96bb02-ec3e-4a5d-bc5d-d0518afea0aa" definitionName="IsBroadcastingViaSignalR" rawValue="False" />
                           </properties>
                           <references>
                             <reference Id="e78c0a1f-4506-47e6-ba6b-7a4c098596cc" value="solution://c9221f3f-40cc-4680-a7c4-e87ab699c000/0a19b247-c442-454d-8a94-0fd865dad48c" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{CodeIdentifier}.cs&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;0fa0f1e3-2a8d-4e12-b629-9012e20354ad&quot;&#xD;&#xA;}" />
@@ -329,15 +318,9 @@
                                 </element>
                               </elements>
                             </collection>
-                            <collection Id="8475636c-d9f6-40eb-a2aa-e3726cb7a9ed" definitionId="7a291463-b68c-45ac-8ad3-28eb5982aa3c" definitionName="LibraryReferences" instanceName="Library References" />
                           </elements>
                         </element>
                       </elements>
-                    </collection>
-                    <collection Id="be7eb98a-c0a3-448f-a431-5a297fb77d9a" definitionId="70a9d0ed-a581-4b84-8ac7-ad3d5b4a43d6" definitionName="ServiceLibraries" instanceName="Libraries">
-                      <properties>
-                        <property Id="d268c1be-4e77-4f6c-a2af-789763a85114" definitionId="77fe3e5a-63a2-4122-bc92-0b69e0293cf6" definitionName="Namespace" />
-                      </properties>
                     </collection>
                   </elements>
                 </element>
@@ -393,6 +376,7 @@
                             <property Id="8a5b1db6-9ab1-4004-9668-61cbc19a4587" definitionId="5b80c9f7-44e6-4acc-a9db-1be527d89f81" definitionName="InterfaceBody" rawValue="&#xD;&#xA;        void Send(SubmitShipment message);&#xD;&#xA;" />
                             <property Id="6338abe1-93d9-4cae-93d0-c4efe6b39594" definitionId="3da71921-7816-4280-a945-eaf182cb8ab9" definitionName="ConfigureHowToFindSagaBody" rawValue="&#xD;&#xA;            ConfigureMapping&lt;OrderAccepted&gt;(m =&gt; /* specify message property */).ToSaga(s =&gt;  /* specify saga property */ );&#xD;&#xA;            ConfigureMapping&lt;BillingCompleted&gt;(m =&gt; /* specify message property */).ToSaga(s =&gt;  /* specify saga property */ );&#xD;&#xA;            // ConfigureMapping&lt;SubmitShipmentResponse&gt;(m =&gt; /* specify message property */).ToSaga(s =&gt;  /* specify saga property */ );&#xD;&#xA;" />
                             <property Id="8c54d894-b811-404c-8009-d149fd0449fc" definitionId="640126ae-7c81-42e4-bbe6-d685270cae55" definitionName="UnfoldedCustomCode" rawValue="True" />
+                            <property Id="66732a64-c563-42c3-9ae9-b1117a409c61" definitionId="0f96bb02-ec3e-4a5d-bc5d-d0518afea0aa" definitionName="IsBroadcastingViaSignalR" rawValue="False" />
                           </properties>
                           <references>
                             <reference Id="cfadfd5d-fc53-42ce-bac8-9a6950d4da67" value="solution://a37e0dfb-09a6-4196-9b76-6aa401fa0a63/b7e7a25d-e09c-4101-8b49-0572777deb31" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{CodeIdentifier}SagaData.cs&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;b2adde29-7d8c-4c77-9640-3aaa7ba96752&quot;&#xD;&#xA;}" />
@@ -448,7 +432,6 @@
                                 </element>
                               </elements>
                             </collection>
-                            <collection Id="48477891-f236-471c-913d-4ce3b4aaad53" definitionId="7a291463-b68c-45ac-8ad3-28eb5982aa3c" definitionName="LibraryReferences" instanceName="Library References" />
                           </elements>
                         </element>
                         <element Id="c2d48a98-bbaf-4e42-b8d3-99f5012b9425" definitionId="f1e3bdfb-c55d-4600-b1bc-d12c8b27318f" definitionName="Component" instanceName="SubmitShipmentHandler">
@@ -462,6 +445,7 @@
                             <property Id="0b92400a-2e22-4faf-8899-c823178c771a" definitionId="5b80c9f7-44e6-4acc-a9db-1be527d89f81" definitionName="InterfaceBody" rawValue="&#xD;&#xA;" />
                             <property Id="0c6b6662-d235-4da1-b40f-0ba7b7317d8b" definitionId="3da71921-7816-4280-a945-eaf182cb8ab9" definitionName="ConfigureHowToFindSagaBody" rawValue="&#xD;&#xA;" />
                             <property Id="907e7487-83f8-4824-aa96-60a6b580d73f" definitionId="640126ae-7c81-42e4-bbe6-d685270cae55" definitionName="UnfoldedCustomCode" rawValue="True" />
+                            <property Id="4457dc26-3aab-4397-a0d9-1ff3d0a3a796" definitionId="0f96bb02-ec3e-4a5d-bc5d-d0518afea0aa" definitionName="IsBroadcastingViaSignalR" rawValue="False" />
                           </properties>
                           <references>
                             <reference Id="30f38fcf-368b-46ba-aa71-fd0eae22daa1" value="solution://19dee2e5-6e4f-4b83-b74d-a410230b34c2/21ad09c5-9a1b-465c-b3cc-4c70ef8080d5" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{CodeIdentifier}.cs&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;0fa0f1e3-2a8d-4e12-b629-9012e20354ad&quot;&#xD;&#xA;}" />
@@ -492,15 +476,9 @@
                                 </element>
                               </elements>
                             </collection>
-                            <collection Id="5b830ae8-4d00-4714-bdee-21a0166aeff1" definitionId="7a291463-b68c-45ac-8ad3-28eb5982aa3c" definitionName="LibraryReferences" instanceName="Library References" />
                           </elements>
                         </element>
                       </elements>
-                    </collection>
-                    <collection Id="414c8778-7c8a-40ce-8db8-3a9bfc18c5bc" definitionId="70a9d0ed-a581-4b84-8ac7-ad3d5b4a43d6" definitionName="ServiceLibraries" instanceName="Libraries">
-                      <properties>
-                        <property Id="19d2fa90-5ac0-4c4b-8443-e1ad9124b0c8" definitionId="77fe3e5a-63a2-4122-bc92-0b69e0293cf6" definitionName="Namespace" />
-                      </properties>
                     </collection>
                   </elements>
                 </element>
@@ -519,8 +497,10 @@
                     <property Id="de6bcb1f-2d29-468b-ba8a-996edd754d4d" definitionId="6b9f41ec-adc9-4e43-9357-9b010917f71e" definitionName="Namespace" rawValue="OnlineSales.eCommerce" />
                     <property Id="b2cbde45-227b-4f61-bcff-283b8e0b1b44" definitionId="2c6f00c8-c9d3-47fc-a5e6-d4f2d536cb57" definitionName="NumberOfWorkerThreads" rawValue="1" />
                     <property Id="06806c02-1a07-4974-851f-2bf297ceeeb6" definitionId="6ae7e4c7-5ef1-470f-8bae-93b4c114fd68" definitionName="SLA" />
-                    <property Id="439e8d4a-0568-4775-8979-b8482b6e8f84" definitionId="1665fe04-7998-4b5d-8b72-dcbe86fed155" definitionName="SendOnly" rawValue="False" />
                     <property Id="43825b74-f5bc-415b-bce1-8b49c2cfb58c" definitionId="9e93f933-0db1-4f69-aac8-048bbe4c0f4f" definitionName="CommandSenderNeedsRegistration" rawValue="False" />
+                    <property Id="44624a06-0bc6-4193-bfc8-7f568c2f23d3" definitionId="18f525a9-eb78-4cd8-bd63-8d8869a03f7b" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
+                    <property Id="1de273f7-4aea-4ffc-9e94-86489bd24845" definitionId="dd4a2fdd-da4b-4ed0-8c3f-7db9c80bce31" definitionName="IsSignalREnabled" rawValue="False" />
+                    <property Id="650a2a03-0bd2-420e-8b3f-b8d533e1fb13" definitionId="0405c61a-19fb-4b82-90fc-f69c33df0995" definitionName="TestControllerSupportDeployed" rawValue="False" />
                   </properties>
                   <references>
                     <reference Id="352d3e50-365b-4d04-b533-e5ddf5f58a6b" value="solution://621d142c-3f61-4505-b11c-61e12fae848a/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{Root.InstanceName}.{InstanceName}&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
@@ -568,6 +548,7 @@
                     <property Id="5bb3f831-5980-4a8f-b0f4-86eb6cb0d378" definitionId="ffe8330c-7115-42e2-8028-9cb7e3acc3a3" definitionName="SLNumberOfRetries" rawValue="3" />
                     <property Id="03ea4d2e-aaf0-4d42-9c58-cfc5bd73d2c7" definitionId="caef918a-e61b-4748-98a0-48480a8776f6" definitionName="SLTimeIncrease" rawValue="00:00:10" />
                     <property Id="95793059-29f4-4e29-8b54-7e2aa0026cd6" definitionId="df341285-27c0-409b-8eb6-f4bf61d5af45" definitionName="CommandSenderNeedsRegistration" rawValue="False" />
+                    <property Id="389955c1-4034-41bd-bcb3-b07636ededef" definitionId="95a79914-151f-48e5-b0e6-2dcbefdec2a9" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
                   </properties>
                   <references>
                     <reference Id="387e0f21-2ef6-43fd-90a1-925fe78d5dbe" value="solution://bbd4565c-9350-4e4e-8172-226ed23639fd/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{Root.InstanceName}.{InstanceName}&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
@@ -616,6 +597,7 @@
                     <property Id="06cc159b-d342-4af9-a2cb-2b374a6332f7" definitionId="ffe8330c-7115-42e2-8028-9cb7e3acc3a3" definitionName="SLNumberOfRetries" rawValue="3" />
                     <property Id="b238b83e-c638-4117-87cc-820f2cdd0c6b" definitionId="caef918a-e61b-4748-98a0-48480a8776f6" definitionName="SLTimeIncrease" rawValue="00:00:10" />
                     <property Id="a44898dc-241b-4ccd-aff4-89c6e846bf24" definitionId="df341285-27c0-409b-8eb6-f4bf61d5af45" definitionName="CommandSenderNeedsRegistration" rawValue="False" />
+                    <property Id="a6bd579f-740d-4a30-86e4-fe2f179bf5fc" definitionId="95a79914-151f-48e5-b0e6-2dcbefdec2a9" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
                   </properties>
                   <references>
                     <reference Id="06637acf-f66e-4fbb-894b-4281f901ade2" value="solution://04a80caf-dabb-474a-a00a-7d751a478504/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{Root.InstanceName}.{InstanceName}&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
@@ -664,6 +646,7 @@
                     <property Id="fd266460-037d-4e7f-bae2-1f0eb90ed265" definitionId="ffe8330c-7115-42e2-8028-9cb7e3acc3a3" definitionName="SLNumberOfRetries" rawValue="3" />
                     <property Id="d31c594f-7c62-4bf7-b2c3-3ada6cfbf9d7" definitionId="caef918a-e61b-4748-98a0-48480a8776f6" definitionName="SLTimeIncrease" rawValue="00:00:10" />
                     <property Id="a26e1b61-7a68-4183-8161-53253168402a" definitionId="df341285-27c0-409b-8eb6-f4bf61d5af45" definitionName="CommandSenderNeedsRegistration" rawValue="False" />
+                    <property Id="b7835630-3e7f-472d-8c33-e0500525612d" definitionId="95a79914-151f-48e5-b0e6-2dcbefdec2a9" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
                   </properties>
                   <references>
                     <reference Id="25c4bd01-28bc-4f90-8cdb-511ae7f5a392" value="solution://c9221f3f-40cc-4680-a7c4-e87ab699c000/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{Root.InstanceName}.{InstanceName}&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
@@ -712,6 +695,7 @@
                     <property Id="953a5c10-ea1e-4293-b646-8217764bfd8b" definitionId="ffe8330c-7115-42e2-8028-9cb7e3acc3a3" definitionName="SLNumberOfRetries" rawValue="3" />
                     <property Id="161781f1-5b48-483e-8638-f479f7ef179e" definitionId="caef918a-e61b-4748-98a0-48480a8776f6" definitionName="SLTimeIncrease" rawValue="00:00:10" />
                     <property Id="d2dcd239-c5d1-4e6a-8f0d-a7e1ae0ee20e" definitionId="df341285-27c0-409b-8eb6-f4bf61d5af45" definitionName="CommandSenderNeedsRegistration" rawValue="False" />
+                    <property Id="83bb3903-5810-4b75-a017-2eb1430e4a90" definitionId="95a79914-151f-48e5-b0e6-2dcbefdec2a9" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
                   </properties>
                   <references>
                     <reference Id="24b673a0-4162-4feb-ac2e-d2604cfbbae0" value="solution://a37e0dfb-09a6-4196-9b76-6aa401fa0a63/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{Root.InstanceName}.{InstanceName}&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
@@ -760,6 +744,7 @@
                     <property Id="6d36c103-9792-4ccf-af9a-3cbccfee54f3" definitionId="ffe8330c-7115-42e2-8028-9cb7e3acc3a3" definitionName="SLNumberOfRetries" rawValue="3" />
                     <property Id="311b9cbb-7276-462c-805c-8c00139eeeb2" definitionId="caef918a-e61b-4748-98a0-48480a8776f6" definitionName="SLTimeIncrease" rawValue="00:00:10" />
                     <property Id="b18855c1-aee7-48d3-882f-e319deef7dfd" definitionId="df341285-27c0-409b-8eb6-f4bf61d5af45" definitionName="CommandSenderNeedsRegistration" rawValue="False" />
+                    <property Id="9c6e1046-8fd3-413d-880f-24195869f771" definitionId="95a79914-151f-48e5-b0e6-2dcbefdec2a9" definitionName="TargetNsbVersion" rawValue="NSB 4.0" />
                   </properties>
                   <references>
                     <reference Id="d5e82117-04e6-4595-8671-d40f56af2791" value="solution://19dee2e5-6e4f-4b83-b74d-a410230b34c2/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;{Root.InstanceName}.{InstanceName}&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
@@ -796,12 +781,6 @@
             </collection>
             <collection Id="23811bac-39e0-4f98-bb09-e0c8971c480b" definitionId="f847dee0-d0b7-4270-932f-8b18ceb74f21" definitionName="Infrastructure" instanceName="Infrastructure" />
             <collection Id="bf7ad5e6-02b8-40c9-9322-4ba747362a7d" definitionId="2f26d53d-1e7f-41ef-860b-f8c03f01624a" definitionName="DummyCollection" instanceName="Dummy Collection" />
-            <collection Id="aa2570f8-2fdc-4c17-95c9-72d2ace2e808" definitionId="b88e98c7-39d7-4b6f-bfc9-7b7ca3e831b2" definitionName="UseCases" instanceName="Use Cases" />
-            <collection Id="900a6e96-83d3-41ad-922e-84cec43c476b" definitionId="287ddef4-f681-4c17-8aa1-6e3768412fd9" definitionName="Libraries" instanceName="Libraries">
-              <properties>
-                <property Id="25559235-9f5b-4909-8962-e8bba024f114" definitionId="4acfae4b-bcb5-46d5-83c5-48adb9f735ce" definitionName="Namespace" />
-              </properties>
-            </collection>
             <element Id="860d5027-b96a-4a9f-adf3-79ba7be7a119" definitionId="f08604f7-cbcd-4f58-bd9b-ca1b64f72f5d" definitionName="ContractsProject" instanceName="OnlineSales.Contracts">
               <references>
                 <reference Id="137a9acd-11ab-4960-a135-e968f048ea53" value="solution://0c5d49ef-8b82-4fda-bd12-bf1ed38f521b/" kind="NuPattern.Runtime.References.SolutionArtifactLinkReference" tag="{&#xD;&#xA;  &quot;Tag&quot;: &quot;&quot;,&#xD;&#xA;  &quot;TargetFileName&quot;: &quot;OnlineSales.Contracts&quot;,&#xD;&#xA;  &quot;SyncNames&quot;: false,&#xD;&#xA;  &quot;Id&quot;: &quot;00000000-0000-0000-0000-000000000000&quot;&#xD;&#xA;}" />
